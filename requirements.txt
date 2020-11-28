@@ -1,0 +1,14 @@
+certifi==2020.11.8
+chardet==3.0.4
+colorama==0.4.4
+configparser==5.0.1
+crayons==0.4.0
+idna==2.10
+instagram-private-api==1.6.0.0
+requests==2.25.0
+selenium==3.141.0
+six==1.15.0
+ujson==4.0.1
+urllib3==1.26.2
+vk-api==11.9.1
+webdriver-manager==3.2.2

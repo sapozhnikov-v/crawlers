@@ -1,0 +1,8 @@
+{
+ "tw_guest_token": "1332485719600869376",
+ "tw_remote": false,
+ "tw_server_url": "http:\/\/localhost:4444\/wd\/hub",
+ "vk_login": "login",
+ "vk_password": "password",
+ "api_url": "http:\/\/localhost:8000"
+}
